@@ -1,0 +1,14 @@
+include ':capacitor-android'
+project(':capacitor-android').projectDir = new File('./capacitor-libs/capacitor-android')
+
+include ':capacitor-app'
+project(':capacitor-app').projectDir = new File('./capacitor-libs/capacitor-app')
+
+include ':capacitor-geolocation'
+project(':capacitor-geolocation').projectDir = new File('./capacitor-libs/capacitor-geolocation')
+
+include ':capacitor-splash-screen'
+project(':capacitor-splash-screen').projectDir = new File('./capacitor-libs/capacitor-splash-screen')
+
+include ':capacitor-status-bar'
+project(':capacitor-status-bar').projectDir = new File('./capacitor-libs/capacitor-status-bar')
