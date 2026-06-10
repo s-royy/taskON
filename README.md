@@ -16,10 +16,12 @@ An Android app for managing tasks, lists, and reminders — with a Pomodoro time
 
 ## Screenshots
 
-![Tasks](screenshots/tasks_menu.png)
-![Calendar](screenshots/calendar.png)
-![Pomodoro](screenshots/pomodoro.png)
-![Progress](screenshots/progress.png)
-![New Task](screenshots/new_task.png)
-![New List](screenshots/new_list.png)
-![New Reminder](screenshots/new_reminder.png)
+<p>
+<img src="screenshots/tasks_menu.png" width="200"/>
+<img src="screenshots/calendar.png" width="200"/>
+<img src="screenshots/pomodoro.png" width="200"/>
+<img src="screenshots/progress.png" width="200"/>
+<img src="screenshots/new_task.png" width="200"/>
+<img src="screenshots/new_list.png" width="200"/>
+<img src="screenshots/new_reminder.png" width="200"/>
+</p>
