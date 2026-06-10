@@ -11,7 +11,7 @@ An Android app for managing tasks, lists, and reminders — with a Pomodoro time
 - Pomodoro focus timer attachable to tasks
 - Calendar view for scheduled tasks
 - Progress tracking with weekly chart and priority breakdown
-- Search and filter
+- Search and filter 
 
 ## Screenshots
 
